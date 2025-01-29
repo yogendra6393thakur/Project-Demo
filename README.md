@@ -1,2 +1,3 @@
 # Project-Demo
-This is my first repository.
+This is My first Git Repository.
+Author - Yogendra Singh
